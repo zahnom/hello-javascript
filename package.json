@@ -1,5 +1,5 @@
 {
-  "name": "hello-javascript",
+  "name": "@zahnom/hello-javascript",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/zahnom/hello-javascript/issues"
   },
-  "homepage": "https://github.com/zahnom/hello-javascript#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/zahnom/hello-javascript#readme"
 }
